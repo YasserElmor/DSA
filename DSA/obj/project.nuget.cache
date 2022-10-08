@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/0WFu0bJ+CCvyfjBJo0WKlLcGE+0w9ap14hgulYwDhfZlAWpqinzMN7z8UvN4DT62CYDvoYhGXYbf1H11XKf/g==",
+  "dgSpecHash": "umNgBJP9qOVuUIt4lvt1JdZE83DSy7DiVKWJ5OxCGDyqfsk2zZsbJwKeLkYWq4Gx05KlqwyxBk63wROc+bIPFg==",
   "success": true,
   "projectFilePath": "G:\\Others\\Workspace\\Web Projects\\.Net\\DSA\\DSA\\DSA.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasser\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yasser\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yasser\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Yasser\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

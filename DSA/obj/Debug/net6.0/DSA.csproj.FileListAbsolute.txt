@@ -13,3 +13,11 @@ G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\refint\DSA.dll
 G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.pdb
 G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.genruntimeconfig.cache
 G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\ref\DSA.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\nunit.framework.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.csproj.CopyComplete
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\nunit.engine.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\nunit.engine.api.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\nunit.engine.core.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\testcentric.engine.metadata.dll
