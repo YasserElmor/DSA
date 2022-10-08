@@ -1,0 +1,15 @@
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\DSA.exe
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\DSA.deps.json
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\DSA.runtimeconfig.json
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\DSA.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\DSA.pdb
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.csproj.AssemblyReference.cache
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.AssemblyInfoInputs.cache
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.AssemblyInfo.cs
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.csproj.CoreCompileInputs.cache
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\refint\DSA.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.pdb
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\DSA.genruntimeconfig.cache
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\obj\Debug\net6.0\ref\DSA.dll
