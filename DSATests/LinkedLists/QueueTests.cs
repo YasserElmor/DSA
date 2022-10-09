@@ -86,8 +86,6 @@ namespace LinkedLists.Tests
             queue.Enqueue("John");
 
             Assert.That(queue.Peek(), Is.EqualTo("Yasser"));
-            queue.Deque();
-            Assert.That(queue.Peek(), Is.EqualTo("Jack"));
         }
 
     }
