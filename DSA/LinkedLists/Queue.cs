@@ -1,13 +1,12 @@
 ﻿
 namespace LinkedLists
 {
-
     public class Queue<T>
     {
-        public int length;
+        public int length { get; set; }
 
-        private Node<T>? head;
-        private Node<T>? tail;
+        protected Node<T>? head;
+        protected Node<T>? tail;
 
         public Queue()
         {
@@ -47,8 +46,10 @@ namespace LinkedLists
             head = head!.next;
             prevHead.next = null;
 
-            return prevHead.value;
+            if (length == 0)
+                tail = null;
 
+            return prevHead.value;
         }
 
         public T? Peek()
