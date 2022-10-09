@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "umNgBJP9qOVuUIt4lvt1JdZE83DSy7DiVKWJ5OxCGDyqfsk2zZsbJwKeLkYWq4Gx05KlqwyxBk63wROc+bIPFg==",
+  "dgSpecHash": "j3ixfymHwBG7zL3gbWjvIN18CBnmPixbJkeSvK0T05Y3GkP4Ol0uRkLlseJNay+GFqg/tjSw4Si2F9KmvbDvdw==",
   "success": true,
   "projectFilePath": "G:\\Others\\Workspace\\Web Projects\\.Net\\DSA\\DSA\\DSA.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yasser\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Yasser\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yasser\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
     "C:\\Users\\Yasser\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\Yasser\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
-    "C:\\Users\\Yasser\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+    "C:\\Users\\Yasser\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Yasser\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -21,3 +21,8 @@ G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\nunit.engine.dll
 G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\nunit.engine.api.dll
 G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\nunit.engine.core.dll
 G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\testcentric.engine.metadata.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\Castle.Core.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\Moq.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+G:\Others\Workspace\Web Projects\.Net\DSA\DSA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
