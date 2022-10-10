@@ -39,16 +39,23 @@ namespace LinkedLists
             if (length == 0)
                 return default;
 
-            // head and tail both exist separately? set the current head's subsequent node as the new head, and set the previous head's next ref to null
-            length--;
-
             Node<T> prevHead = head!;
-            head = head!.next;
-            prevHead.next = null;
 
-            if (length == 0)
+            // queue has only one node? set head and tail to null
+            if (length == 1)
+            {
                 tail = null;
+                head = null;
+            }
 
+            // head and tail both exist separately? set the current head's subsequent node as the new head, and set the previous head's next ref to null
+            else
+            {
+                head = head!.next;
+                prevHead.next = null;
+            }
+
+            length--;
             return prevHead.value;
         }
 
