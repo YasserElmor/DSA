@@ -1,6 +1,8 @@
 ﻿
 using Arrays;
+using DSA.Recursion;
 using LinkedLists;
+using System.Drawing;
 
 namespace EntryPoint
 {
@@ -8,7 +10,23 @@ namespace EntryPoint
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World");
+            string[] map = new string[]
+            {
+                "###   ##E##",
+                "### #     #",
+                "##S #######"
+            };
+
+            MazeSolver mazeSolver = new(map);
+
+
+
+            List<Point>? path = mazeSolver.Init();
+            if (path != null)
+                foreach (var item in path!)
+                {
+                    Console.WriteLine(item);
+                }
         }
 
     }
