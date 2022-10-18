@@ -12,21 +12,12 @@ namespace EntryPoint
         {
             string[] map = new string[]
             {
-                "###   ##E##",
-                "### #     #",
-                "##S #######"
+                "###########",
+                "##E     ###",
+                "#####S#####"
             };
 
-            MazeSolver mazeSolver = new(map);
-
-
-
-            List<Point>? path = mazeSolver.Init();
-            if (path != null)
-                foreach (var item in path!)
-                {
-                    Console.WriteLine(item);
-                }
+            new MazeSolver(map).Init()?.ForEach(e => { Console.WriteLine(e); });
         }
 
     }

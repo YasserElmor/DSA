@@ -30,8 +30,6 @@ namespace DSA.Recursion
             return FindPath(_map, new(), _start);
         }
 
-        // TODO: the path finder only follows a single path as visited points can't be revisited
-        // TODO: the mechanism of adding points to the path has to be changed to accomodate paths that don't work from the first try
         private static List<Point>? FindPath(string[] map, List<Point> path, Point start)
         {
             path.Add(start);
@@ -46,13 +44,19 @@ namespace DSA.Recursion
                 return path;
             }
 
-            if (validOptions.Count > 0)
+            if (validOptions.Count == 0)
             {
-                foreach (var option in validOptions)
-                {
-                    return FindPath(map, path, option.Point);
-                }
+                path.RemoveAt(path.Count - 1);
+                return null;
             }
+
+            foreach (var option in validOptions)
+            {
+                if (FindPath(map, path, option.Point) is not null)
+                    return path;
+            }
+
+            path.RemoveAt(path.Count - 1);
             return null;
         }
 
